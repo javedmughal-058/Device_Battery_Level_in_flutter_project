@@ -1,16 +1,3 @@
-# native_code_integration_in_flutter_project
+# Device Battery Level in flutter project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![battery_Level](https://github.com/javedmughal-058/Device_Battery_Level_in_flutter_project/assets/91019922/7a76231e-eba8-4a34-af77-d3f5787a2b60)
